@@ -1,0 +1,9 @@
+Modèle CQRS avec MediatR dans l'API Web ASP.NET Core 8
+
+1. Domain
+2. Persistence : Context
+3. Service : Enregistrement dans Program.cs
+4. Dtos
+5. Queries
+6. Command
+7. Points de terminaisaon d'API minimaux : Program.cs
